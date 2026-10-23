@@ -1,0 +1,7 @@
+typer
+rich
+docker
+fastapi
+uvicorn
+httpx
+pypiwin32; sys_platform == "win32"
